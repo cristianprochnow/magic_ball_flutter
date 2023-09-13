@@ -11,4 +11,4 @@ $ flutter run
 
 ## Running
 
-![Demo](./assets/images/demo.gif)
+<img src="./.github/demo.gif" />
